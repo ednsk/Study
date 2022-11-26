@@ -15,3 +15,5 @@
 14. **git branch -d name_branch** - удаление ветки name_branch
 15. **git show id_commit** - просмотр изменения по id.
 16. **git checkout 09bd8cc1 git_instruction.md** - откад изменения файла по id коммита.
+17. **Compare and pull request** - предложение изменений на github.
+18. **Fork** - копия чужого репозитория в свой на github.
